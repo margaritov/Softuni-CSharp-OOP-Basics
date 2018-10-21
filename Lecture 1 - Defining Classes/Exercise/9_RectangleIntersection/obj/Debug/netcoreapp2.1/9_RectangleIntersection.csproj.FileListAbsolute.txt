@@ -1,0 +1,22 @@
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\9_RectangleIntersection\bin\Debug\netcoreapp2.1\9_RectangleIntersection.deps.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\9_RectangleIntersection\bin\Debug\netcoreapp2.1\9_RectangleIntersection.runtimeconfig.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\9_RectangleIntersection\bin\Debug\netcoreapp2.1\9_RectangleIntersection.runtimeconfig.dev.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\9_RectangleIntersection\bin\Debug\netcoreapp2.1\9_RectangleIntersection.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\9_RectangleIntersection\bin\Debug\netcoreapp2.1\9_RectangleIntersection.pdb
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\9_RectangleIntersection\obj\Debug\netcoreapp2.1\9_RectangleIntersection.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\9_RectangleIntersection\obj\Debug\netcoreapp2.1\9_RectangleIntersection.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\9_RectangleIntersection\obj\Debug\netcoreapp2.1\9_RectangleIntersection.AssemblyInfo.cs
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\9_RectangleIntersection\obj\Debug\netcoreapp2.1\9_RectangleIntersection.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\9_RectangleIntersection\obj\Debug\netcoreapp2.1\9_RectangleIntersection.pdb
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\9_RectangleIntersection\obj\Debug\netcoreapp2.1\9_RectangleIntersection.csprojAssemblyReference.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\9_RectangleIntersection\bin\Debug\netcoreapp2.1\9_RectangleIntersection.deps.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\9_RectangleIntersection\bin\Debug\netcoreapp2.1\9_RectangleIntersection.runtimeconfig.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\9_RectangleIntersection\bin\Debug\netcoreapp2.1\9_RectangleIntersection.runtimeconfig.dev.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\9_RectangleIntersection\bin\Debug\netcoreapp2.1\9_RectangleIntersection.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\9_RectangleIntersection\bin\Debug\netcoreapp2.1\9_RectangleIntersection.pdb
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\9_RectangleIntersection\obj\Debug\netcoreapp2.1\9_RectangleIntersection.csprojAssemblyReference.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\9_RectangleIntersection\obj\Debug\netcoreapp2.1\9_RectangleIntersection.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\9_RectangleIntersection\obj\Debug\netcoreapp2.1\9_RectangleIntersection.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\9_RectangleIntersection\obj\Debug\netcoreapp2.1\9_RectangleIntersection.AssemblyInfo.cs
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\9_RectangleIntersection\obj\Debug\netcoreapp2.1\9_RectangleIntersection.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\9_RectangleIntersection\obj\Debug\netcoreapp2.1\9_RectangleIntersection.pdb

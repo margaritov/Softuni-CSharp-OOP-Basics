@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\11_PokemonTrainer\bin\Debug\netcoreapp2.1\11_PokemonTrainer.deps.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\11_PokemonTrainer\bin\Debug\netcoreapp2.1\11_PokemonTrainer.runtimeconfig.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\11_PokemonTrainer\bin\Debug\netcoreapp2.1\11_PokemonTrainer.runtimeconfig.dev.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\11_PokemonTrainer\bin\Debug\netcoreapp2.1\11_PokemonTrainer.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\11_PokemonTrainer\bin\Debug\netcoreapp2.1\11_PokemonTrainer.pdb
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\11_PokemonTrainer\obj\Debug\netcoreapp2.1\11_PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\11_PokemonTrainer\obj\Debug\netcoreapp2.1\11_PokemonTrainer.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\11_PokemonTrainer\obj\Debug\netcoreapp2.1\11_PokemonTrainer.AssemblyInfo.cs
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\11_PokemonTrainer\obj\Debug\netcoreapp2.1\11_PokemonTrainer.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\11_PokemonTrainer\obj\Debug\netcoreapp2.1\11_PokemonTrainer.pdb
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\11_PokemonTrainer\obj\Debug\netcoreapp2.1\11_PokemonTrainer.csprojAssemblyReference.cache

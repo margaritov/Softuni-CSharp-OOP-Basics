@@ -1,0 +1,22 @@
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.deps.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.dev.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.pdb
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.csprojAssemblyReference.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfo.cs
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.pdb
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.deps.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.runtimeconfig.dev.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\RawData\bin\Debug\netcoreapp2.1\RawData.pdb
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.csprojAssemblyReference.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.AssemblyInfo.cs
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\RawData\obj\Debug\netcoreapp2.1\RawData.pdb

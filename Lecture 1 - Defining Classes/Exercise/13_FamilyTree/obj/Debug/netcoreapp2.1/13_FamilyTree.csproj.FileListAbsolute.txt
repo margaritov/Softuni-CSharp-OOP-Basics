@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\13_FamilyTree\obj\Debug\netcoreapp2.1\13_FamilyTree.csprojAssemblyReference.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\13_FamilyTree\obj\Debug\netcoreapp2.1\13_FamilyTree.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\13_FamilyTree\obj\Debug\netcoreapp2.1\13_FamilyTree.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\13_FamilyTree\obj\Debug\netcoreapp2.1\13_FamilyTree.AssemblyInfo.cs
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\13_FamilyTree\bin\Debug\netcoreapp2.1\13_FamilyTree.deps.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\13_FamilyTree\bin\Debug\netcoreapp2.1\13_FamilyTree.runtimeconfig.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\13_FamilyTree\bin\Debug\netcoreapp2.1\13_FamilyTree.runtimeconfig.dev.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\13_FamilyTree\bin\Debug\netcoreapp2.1\13_FamilyTree.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\13_FamilyTree\bin\Debug\netcoreapp2.1\13_FamilyTree.pdb
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\13_FamilyTree\obj\Debug\netcoreapp2.1\13_FamilyTree.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\13_FamilyTree\obj\Debug\netcoreapp2.1\13_FamilyTree.pdb

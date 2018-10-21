@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\12_Google\bin\Debug\netcoreapp2.1\12_Google.deps.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\12_Google\bin\Debug\netcoreapp2.1\12_Google.runtimeconfig.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\12_Google\bin\Debug\netcoreapp2.1\12_Google.runtimeconfig.dev.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\12_Google\bin\Debug\netcoreapp2.1\12_Google.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\12_Google\bin\Debug\netcoreapp2.1\12_Google.pdb
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\12_Google\obj\Debug\netcoreapp2.1\12_Google.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\12_Google\obj\Debug\netcoreapp2.1\12_Google.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\12_Google\obj\Debug\netcoreapp2.1\12_Google.AssemblyInfo.cs
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\12_Google\obj\Debug\netcoreapp2.1\12_Google.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\12_Google\obj\Debug\netcoreapp2.1\12_Google.pdb
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1 - Defining Classes\Exercise\12_Google\obj\Debug\netcoreapp2.1\12_Google.csprojAssemblyReference.cache

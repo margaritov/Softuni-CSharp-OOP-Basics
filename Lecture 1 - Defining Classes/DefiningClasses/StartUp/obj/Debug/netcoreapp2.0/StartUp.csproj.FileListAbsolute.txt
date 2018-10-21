@@ -1,0 +1,11 @@
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\DefiningClasses\StartUp\obj\Debug\netcoreapp2.0\StartUp.csproj.CoreCompileInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\DefiningClasses\StartUp\obj\Debug\netcoreapp2.0\StartUp.AssemblyInfoInputs.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\DefiningClasses\StartUp\obj\Debug\netcoreapp2.0\StartUp.AssemblyInfo.cs
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\DefiningClasses\StartUp\bin\Debug\netcoreapp2.0\StartUp.deps.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\DefiningClasses\StartUp\bin\Debug\netcoreapp2.0\StartUp.runtimeconfig.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\DefiningClasses\StartUp\bin\Debug\netcoreapp2.0\StartUp.runtimeconfig.dev.json
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\DefiningClasses\StartUp\bin\Debug\netcoreapp2.0\StartUp.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\DefiningClasses\StartUp\bin\Debug\netcoreapp2.0\StartUp.pdb
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\DefiningClasses\StartUp\obj\Debug\netcoreapp2.0\StartUp.csprojAssemblyReference.cache
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\DefiningClasses\StartUp\obj\Debug\netcoreapp2.0\StartUp.dll
+C:\Softuni\Softuni-Charp-OOP-Basics\Lecture 1\DefiningClasses\StartUp\obj\Debug\netcoreapp2.0\StartUp.pdb
